@@ -1,0 +1,16 @@
+.heading{
+    text-align: center;
+}
+.container{
+
+    border-style: dashed;
+    background-color: white;
+    width: 900px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 40px
+}
+body{
+    background-color: #e3d344;
+}
